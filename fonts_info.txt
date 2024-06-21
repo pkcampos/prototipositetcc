@@ -1,0 +1,9 @@
+List of Fonts used in template 
+
+BenchNine	http://www.google.com/webfonts/specimen/BenchNine 
+Lora		http://www.google.com/webfonts/family?family=Lora&subset=latin#download
+
+
+
+
+
